@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Professional
 ------------------
 
-I'm deeply passionate about frontend development and the art of crafting captivating user experiences. With a meticulous eye for design and a penchant for writing clean, efficient code, my focus lies in creating seamless web applications and engaging interfaces. I thrive on bringing ideas to life through a blend of creativity and technical prowess. Whether it involves building responsive websites, fine-tuning performance, or exploring cutting-edge frontend technologies, I am committed to delivering top-notch solutions that go above and beyond expectations. Take a dive into my repositories to explore some of my projects, and feel free to reach out for collaboration or any inquiries you may have. Let's collaborate and bring something extraordinary to life!
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 * 🌍  I'm based in Liverpool, England
 * ✉️  You can contact me at [adamzain047@gmail.com](mailto:adamzain047@gmail.com)
