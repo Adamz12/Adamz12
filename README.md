@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Zain
 =================================================================================================================================
 
-Software Developer
+IT Professional
 ------------------
 
 I'm deeply passionate about frontend development and the art of crafting captivating user experiences. With a meticulous eye for design and a penchant for writing clean, efficient code, my focus lies in creating seamless web applications and engaging interfaces. I thrive on bringing ideas to life through a blend of creativity and technical prowess. Whether it involves building responsive websites, fine-tuning performance, or exploring cutting-edge frontend technologies, I am committed to delivering top-notch solutions that go above and beyond expectations. Take a dive into my repositories to explore some of my projects, and feel free to reach out for collaboration or any inquiries you may have. Let's collaborate and bring something extraordinary to life!
