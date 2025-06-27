@@ -11,7 +11,7 @@ IT Professional
   - [osTicket: Post-Installation Configuration](https://github.com/Adamz12/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Adamz12/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Adamz12/configure-ad)
+  - [Creating a Windows and Linux Virtual Machine in the Cloud](https://github.com/Adamz12/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Adamz12/azure-network-protocols)
 
 
